@@ -1,3 +1,6 @@
+# Decoder simulation
+<img width="1345" height="571" alt="Знімок екрана 2026-09-11 033648" src="https://github.com/user-attachments/assets/e7884d84-289c-43f6-84c4-8f1f9a8cb7ae" />
+
 # Latch warning
 <img width="405" height="37" alt="Знімок екрана 2026-09-11 025232" src="https://github.com/user-attachments/assets/75672706-ea3f-49ab-bc11-e4335014edf9" />
 
